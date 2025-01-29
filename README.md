@@ -14,3 +14,5 @@ To add more to this I added the ability for the light to reveal certain objects.
 
 ![image](https://github.com/user-attachments/assets/1baaa5cb-c4bd-456c-9ad3-6376de899d84)
 
+GIF of it in action (low quality since GitHub max file size is 10Mb)
+![RaycastTestGIF](https://github.com/user-attachments/assets/a72fe02a-112d-4da1-9688-2e99d70d9c00)
